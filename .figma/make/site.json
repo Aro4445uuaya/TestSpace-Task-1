@@ -1,0 +1,10 @@
+{
+  "description": "Manage exams and assessments with secure workspaces, automatic grading, detailed analytics, and professional reporting for educators and enterprises.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
